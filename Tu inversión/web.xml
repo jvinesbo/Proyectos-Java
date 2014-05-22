@@ -1,0 +1,85 @@
+<div>
+	<table class="TblPort" cellspacing="0" cellpadding="3" align="Center" border="0" id="ctl00_Contenido_tblÍndice" width="80%" style="margin-bottom: 20px;">
+		<tr align="center">
+			<th scope="col">Nombre</th><th scope="col">Anterior</th><th scope="col">&#218;ltimo</th><th scope="col">% Dif.</th><th scope="col">M&#225;ximo</th><th scope="col">M&#237;nimo</th><th scope="col">Fecha</th><th scope="col">Hora</th><th class="Ult" scope="col">% Dif.<br/>Año 2014</th>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left">IBEX 35&#174;</td><td>10.453,80</td><td>10.531,40</td><td class="DifClSb">0,74</td><td>10.547,50</td><td>10.364,10</td><td align="center">21/05/2014</td><td align="center">17:38</td><td class="DifClSb">6,20</td>
+		</tr>
+	</table>
+
+	<table class="TblPort" cellspacing="0" cellpadding="3" border="0" id="ctl00_Contenido_tblAcciones" width="100%">
+		<tr align="center">
+			<th scope="col">Nombre</th><th scope="col">&#218;lt.</th><th scope="col">% Dif.</th><th scope="col">M&#225;x.</th><th scope="col">M&#237;n.</th><th scope="col">Volumen</th><th scope="col">Efectivo (miles €)</th><th scope="col">Fecha</th><th class="Ult" scope="col">Hora</th>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0111845014">ABERTIS SE.A</a></td><td>15,7900</td><td class="DifClSb">0,03</td><td>15,8650</td><td>15,7100</td><td>1.216.012</td><td>19.202,18</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0125220311">ACCIONA</a></td><td>56,9500</td><td class="DifClSb">1,14</td><td>57,1900</td><td>55,4200</td><td>201.140</td><td>11.301,06</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0167050915">ACS</a></td><td>30,7650</td><td class="DifClSb">0,08</td><td>30,8500</td><td>30,4150</td><td>1.149.578</td><td>35.312,93</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0109067019">AMADEUS</a></td><td>31,4900</td><td class="DifClSb">1,16</td><td>31,6700</td><td>30,7950</td><td>1.288.419</td><td>40.444,06</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlBj" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=LU0323134006">ARCELORMIT.</a></td><td>11,2950</td><td class="DifClBj">-1,18</td><td>11,3700</td><td>11,2300</td><td>1.414.819</td><td>15.991,28</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0113790226">BA.POPULAR</a></td><td>4,8810</td><td class="DifClSb">0,93</td><td>4,9200</td><td>4,7520</td><td>13.363.746</td><td>64.946,13</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0113860A34">BA.SABADELL</a></td><td>2,3360</td><td class="DifClSb">0,78</td><td>2,3450</td><td>2,2810</td><td>19.079.552</td><td>44.445,15</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0113900J37">BA.SANTANDER</a></td><td>7,4020</td><td class="DifClSb">0,82</td><td>7,4090</td><td>7,2600</td><td>42.903.550</td><td>316.495,41</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlBj" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0113307021">BANKIA</a></td><td>1,4700</td><td class="DifClBj">-0,27</td><td>1,4800</td><td>1,4470</td><td>30.030.331</td><td>44.123,50</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0113679I37">BANKINTER</a></td><td>5,4780</td><td class="DifClSb">0,40</td><td>5,4880</td><td>5,3650</td><td>4.654.458</td><td>25.338,48</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0113211835">BBVA</a></td><td>9,0480</td><td class="DifClSb">1,43</td><td>9,0700</td><td>8,8290</td><td>31.331.945</td><td>281.444,60</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0115056139">BME</a></td><td>32,0550</td><td class="DifClSb">2,97</td><td>32,0700</td><td>31,1350</td><td>328.855</td><td>10.437,01</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0140609019">CAIXABANK</a></td><td>4,3090</td><td class="DifClSb">0,80</td><td>4,3400</td><td>4,2220</td><td>6.955.805</td><td>29.957,01</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0126775032">DIA</a></td><td>6,6480</td><td class="DifClSb">0,79</td><td>6,6590</td><td>6,5390</td><td>2.073.791</td><td>13.723,14</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlBj" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0112501012">EBRO FOODS</a></td><td>16,5450</td><td class="DifClBj">-0,21</td><td>16,6100</td><td>16,4000</td><td>291.317</td><td>4.814,00</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlBj" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0130960018">ENAGAS</a></td><td>20,8800</td><td class="DifClBj">-0,67</td><td>21,0550</td><td>20,8750</td><td>2.350.413</td><td>49.226,14</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlBj" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0122060314">FCC</a></td><td>15,1850</td><td class="DifClBj">-1,84</td><td>15,4850</td><td>15,1600</td><td>1.195.567</td><td>18.215,77</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0118900010">FERROVIAL</a></td><td>15,5700</td><td class="DifClSb">0,13</td><td>15,6050</td><td>15,4300</td><td>2.446.522</td><td>38.004,06</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0143416115">GAMESA</a></td><td>8,0370</td><td class="DifClSb">1,04</td><td>8,0840</td><td>7,8300</td><td>2.649.212</td><td>21.178,24</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0116870314">GAS NATURAL</a></td><td>20,5250</td><td class="DifClSb">0,84</td><td>20,6000</td><td>20,3300</td><td>1.381.368</td><td>28.300,06</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlBj" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0171996012">GRIFOLS CL.A</a></td><td>39,6150</td><td class="DifClBj">-0,39</td><td>39,8100</td><td>39,2500</td><td>1.404.643</td><td>55.577,36</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0177542018">IAG</a></td><td>4,6680</td><td class="DifClSb">0,21</td><td>4,7170</td><td>4,5930</td><td>5.517.699</td><td>25.646,85</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0144580Y14">IBERDROLA</a></td><td>5,1870</td><td class="DifClSb">0,31</td><td>5,2080</td><td>5,1510</td><td>29.313.009</td><td>152.081,53</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0148396015">INDITEX</a></td><td>104,3500</td><td class="DifClSb">0,68</td><td>104,9500</td><td>102,7000</td><td>1.723.505</td><td>178.971,84</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0118594417">INDRA A</a></td><td>13,0850</td><td class="DifClSb">0,38</td><td>13,1600</td><td>12,9700</td><td>752.260</td><td>9.833,96</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlBj" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=GB00B5TMSP21">JAZZTEL</a></td><td>10,8050</td><td class="DifClBj">-0,46</td><td>10,9250</td><td>10,7100</td><td>1.054.135</td><td>11.401,03</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0124244E34">MAPFRE</a></td><td>2,9190</td><td class="DifClSb">0,72</td><td>2,9360</td><td>2,8640</td><td>7.945.615</td><td>23.160,74</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0152503035">MEDIASET</a></td><td>7,7440</td><td class="DifClSb">0,44</td><td>7,8090</td><td>7,6600</td><td>940.579</td><td>7.287,76</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0142090317">OHL</a></td><td>30,7850</td><td class="DifClSb">1,67</td><td>30,9850</td><td>30,0000</td><td>662.412</td><td>20.303,54</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0173093115">R.E.C.</a></td><td>60,2000</td><td class="DifClSb">0,53</td><td>60,4500</td><td>59,6600</td><td>318.793</td><td>19.198,35</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0173516115">REPSOL</a></td><td>20,3600</td><td class="DifClSb">1,80</td><td>20,3700</td><td>19,9200</td><td>7.207.382</td><td>146.201,32</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0182870214">SACYR</a></td><td>4,6840</td><td class="DifClSb">3,97</td><td>4,6900</td><td>4,4220</td><td>7.286.848</td><td>33.511,08</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0178165017">TEC.REUNIDAS</a></td><td>44,2400</td><td class="DifClSb">1,27</td><td>44,3100</td><td>43,1050</td><td>370.233</td><td>16.260,32</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0178430E18">TELEFONICA</a></td><td>12,0900</td><td class="DifClSb">0,54</td><td>12,1000</td><td>11,9100</td><td>17.674.614</td><td>212.945,47</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr><tr align="right">
+			<td class="DifFlSb" align="left"><a href="/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0184262212">VISCOFAN</a></td><td>41,6600</td><td class="DifClSb">0,59</td><td>41,7350</td><td>41,2050</td><td>157.685</td><td>6.555,84</td><td align="center">21/05/2014</td><td class="Ult" align="center">Cierre</td>
+		</tr>
+	</table>
+</div>
